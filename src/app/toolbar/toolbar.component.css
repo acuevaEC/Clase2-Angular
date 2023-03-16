@@ -1,0 +1,4 @@
+header {
+    background-color: rgba(4, 85, 170, 0.522);
+    height: var(--toolbar-height);
+  }
